@@ -27,4 +27,53 @@
 .nav-link:hover {
   color: #ffdf00;
 }
+
+.header-body {
+  opacity: 0.8;
+  background-image: url(/images/bg-header.jpeg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-text {
+  font-family: "Poppins", sans-serif;
+  font-size: 70px;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.header-title {
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+  font-size: 60px;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.header-body .btn {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  color: #fff;
+  font-weight: 700;
+  padding: 20px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
 /*# sourceMappingURL=style.css.map */
