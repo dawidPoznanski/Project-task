@@ -1,0 +1,30 @@
+/*VARIABLES*/
+/*NAVBAR*/
+.navbar {
+  width: 70%;
+  padding: 25px;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+}
+
+.navbar-brand {
+  font-family: "Courgette", cursive;
+  font-size: 40px;
+}
+
+.collapse {
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #ffdf00;
+}
+/*# sourceMappingURL=style.css.map */
